@@ -1,0 +1,19 @@
+# Raster data (large files)
+*.tif
+*.vrt
+*.aux.xml
+
+# ML models
+*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+._*
+
+# Claude Code
+.claude/
