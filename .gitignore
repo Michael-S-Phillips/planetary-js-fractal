@@ -15,5 +15,8 @@ __pycache__/
 .DS_Store
 ._*
 
+# HPC-specific scripts
+hpc/
+
 # Claude Code
 .claude/
